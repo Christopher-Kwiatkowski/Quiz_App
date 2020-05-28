@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="quiz_title">Do you know dogs?</string>
+    <string name="name_input">Who is taking this quiz?</string>
+    <string name="name_hint">Name</string>
+    <string name="get_started">Let us get started!</string>
+    <string name="question_one">First Question:</string>
+    <string name="question_one_content">Which of the following are all breeds of dogs? (select all that apply)</string>
+    <string name="question_one_a">Australian Shepherd</string>
+    <string name="question_one_b">Fish</string>
+    <string name="question_one_c">Golden Retriever</string>
+    <string name="question_one_d">Cat</string>
+    <string name="question_one_e">Bloodhound</string>
+    <string name="question_two">Second Question:</string>
+    <string name="question_two_content">Where do all dogs go when they die?</string>
+    <string name="question_two_a">They never die</string>
+    <string name="question_two_b">Hell</string>
+    <string name="question_two_c">Heaven</string>
+    <string name="question_two_d">This was a dark question, no?</string>
+    <string name="question_three">Third Question:</string>
+    <string name="question_three_content">Yes or no, are dogs man\'s best friend?</string>
+    <string name="question_three_hint">50/50 shot</string>
+    <string name="question_four">Final Question:</string>
+    <string name="question_four_content">What sound does a dog make?</string>
+    <string name="question_four_hint">Hint: Tree covering...</string>
+    <string name="submit_button">Submit for Grading</string>
+    <string name="all_correct">Congratulations %1$s! You got a perfect score!</string>
+    <string name="toast">Looks like you scored %1$d out of 4, keep it up, %2$s!</string>
+</resources>
